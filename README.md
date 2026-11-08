@@ -34,4 +34,4 @@ SQL (BigQuery) for analysis, Power BI for the dashboard.
 - `dashboard.png`: the dashboard
 - `NHS_AE_Dashboard.pdf`: PDF version
 - `NHS_AE_Dashboard.pbix`: Power BI file
-- `queries.sql`: all SQL queries (coming next)
+- `queries.sql`: all SQL queries.
